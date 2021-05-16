@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Vágner Oliveira! 👋
+🇧🇷 I'm building things with Javascript, Typescript with focus in Frontend
+
+ 
 
 <!--
 **vagnerolliver/vagnerolliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
