@@ -7,7 +7,7 @@
 🚀 [Blog](https://medium.com/@vagner.olliver)
 
 ### My technology Stack 👨‍💻
-
+<p>
 <img align="left" alt="NodeJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
 
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="max-width:100%;">
@@ -33,9 +33,9 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/git/git.png" style="max-width:100%;">
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</p>
 
 ### Github Status
-
 [![Vagner's github stats](https://github-readme-stats.vercel.app/api?username=vagnerolliver)](https://github.com/vagnerolliver/github-readme-stats)
 
 
