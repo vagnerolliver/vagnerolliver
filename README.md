@@ -1,8 +1,36 @@
 ### Hi there, I'm Vágner Oliveira! 👋
 🇧🇷 I'm building things with Javascript, Typescript with focus in Frontend
 
- 
+### Find me elsewhere 🌎
+💼 [LinkedIn](https://www.linkedin.com/in/vagnerolliver/)
+🐦 [Twitter](https://twitter.com/vagnerolliver)
+🚀 [Blog](https://medium.com/@vagner.olliver)
 
+### My technology Stack 👨‍💻
+
+<img align="left" alt="NodeJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
+
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="max-width:100%;">
+
+<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width:100%;">
+
+<img align="left" alt="ReactJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
+
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
+
+<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;">
+
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;">
+
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;">
+
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="max-width:100%;">
+
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/git/git.png" style="max-width:100%;">
+
+
+
+ 
 <!--
 **vagnerolliver/vagnerolliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
